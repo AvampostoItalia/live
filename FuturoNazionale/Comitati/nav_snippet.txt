@@ -1,0 +1,139 @@
+nav:
+  - Home: index.md
+  - Comitati: FuturoNazionale/Comitati/index.md
+  - Dettaglio Geografico:
+      - Nord-est: FuturoNazionale/Comitati/Nord-est/index.md
+        - Veneto: FuturoNazionale/Comitati/Nord-est/Veneto/index.md
+          - Padova: FuturoNazionale/Comitati/Nord-est/Veneto/Padova/index.md
+          - Verona: FuturoNazionale/Comitati/Nord-est/Veneto/Verona/index.md
+          - Treviso: FuturoNazionale/Comitati/Nord-est/Veneto/Treviso/index.md
+          - Venezia: FuturoNazionale/Comitati/Nord-est/Veneto/Venezia/index.md
+          - Belluno: FuturoNazionale/Comitati/Nord-est/Veneto/Belluno/index.md
+          - Vicenza: FuturoNazionale/Comitati/Nord-est/Veneto/Vicenza/index.md
+          - Rovigo: FuturoNazionale/Comitati/Nord-est/Veneto/Rovigo/index.md
+        - Emilia-Romagna: FuturoNazionale/Comitati/Nord-est/Emilia-Romagna/index.md
+          - Parma: FuturoNazionale/Comitati/Nord-est/Emilia-Romagna/Parma/index.md
+          - Piacenza: FuturoNazionale/Comitati/Nord-est/Emilia-Romagna/Piacenza/index.md
+          - Forlì-Cesena: FuturoNazionale/Comitati/Nord-est/Emilia-Romagna/Forlì-Cesena/index.md
+          - Ravenna: FuturoNazionale/Comitati/Nord-est/Emilia-Romagna/Ravenna/index.md
+          - Bologna: FuturoNazionale/Comitati/Nord-est/Emilia-Romagna/Bologna/index.md
+          - Ferrara: FuturoNazionale/Comitati/Nord-est/Emilia-Romagna/Ferrara/index.md
+          - Reggio nell'Emilia: FuturoNazionale/Comitati/Nord-est/Emilia-Romagna/Reggio nell'Emilia/index.md
+          - Rimini: FuturoNazionale/Comitati/Nord-est/Emilia-Romagna/Rimini/index.md
+          - Modena: FuturoNazionale/Comitati/Nord-est/Emilia-Romagna/Modena/index.md
+        - Trentino-Alto Adige/Südtirol: FuturoNazionale/Comitati/Nord-est/Trentino-Alto Adige/Südtirol/index.md
+          - Trento: FuturoNazionale/Comitati/Nord-est/Trentino-Alto Adige/Südtirol/Trento/index.md
+          - Bolzano/Bozen: FuturoNazionale/Comitati/Nord-est/Trentino-Alto Adige/Südtirol/Bolzano/Bozen/index.md
+        - Friuli-Venezia Giulia: FuturoNazionale/Comitati/Nord-est/Friuli-Venezia Giulia/index.md
+          - Udine: FuturoNazionale/Comitati/Nord-est/Friuli-Venezia Giulia/Udine/index.md
+          - Trieste: FuturoNazionale/Comitati/Nord-est/Friuli-Venezia Giulia/Trieste/index.md
+          - Pordenone: FuturoNazionale/Comitati/Nord-est/Friuli-Venezia Giulia/Pordenone/index.md
+          - Gorizia: FuturoNazionale/Comitati/Nord-est/Friuli-Venezia Giulia/Gorizia/index.md
+      - Nord-ovest: FuturoNazionale/Comitati/Nord-ovest/index.md
+        - Piemonte: FuturoNazionale/Comitati/Nord-ovest/Piemonte/index.md
+          - Verbano-Cusio-Ossola: FuturoNazionale/Comitati/Nord-ovest/Piemonte/Verbano-Cusio-Ossola/index.md
+          - Novara: FuturoNazionale/Comitati/Nord-ovest/Piemonte/Novara/index.md
+          - Torino: FuturoNazionale/Comitati/Nord-ovest/Piemonte/Torino/index.md
+          - Asti: FuturoNazionale/Comitati/Nord-ovest/Piemonte/Asti/index.md
+          - Alessandria: FuturoNazionale/Comitati/Nord-ovest/Piemonte/Alessandria/index.md
+          - Vercelli: FuturoNazionale/Comitati/Nord-ovest/Piemonte/Vercelli/index.md
+          - Cuneo: FuturoNazionale/Comitati/Nord-ovest/Piemonte/Cuneo/index.md
+          - Biella: FuturoNazionale/Comitati/Nord-ovest/Piemonte/Biella/index.md
+        - Lombardia: FuturoNazionale/Comitati/Nord-ovest/Lombardia/index.md
+          - Milano: FuturoNazionale/Comitati/Nord-ovest/Lombardia/Milano/index.md
+          - Lecco: FuturoNazionale/Comitati/Nord-ovest/Lombardia/Lecco/index.md
+          - Monza e della Brianza: FuturoNazionale/Comitati/Nord-ovest/Lombardia/Monza e della Brianza/index.md
+          - Brescia: FuturoNazionale/Comitati/Nord-ovest/Lombardia/Brescia/index.md
+          - Bergamo: FuturoNazionale/Comitati/Nord-ovest/Lombardia/Bergamo/index.md
+          - Varese: FuturoNazionale/Comitati/Nord-ovest/Lombardia/Varese/index.md
+          - Cremona: FuturoNazionale/Comitati/Nord-ovest/Lombardia/Cremona/index.md
+          - Como: FuturoNazionale/Comitati/Nord-ovest/Lombardia/Como/index.md
+          - Pavia: FuturoNazionale/Comitati/Nord-ovest/Lombardia/Pavia/index.md
+          - Mantova: FuturoNazionale/Comitati/Nord-ovest/Lombardia/Mantova/index.md
+          - Lodi: FuturoNazionale/Comitati/Nord-ovest/Lombardia/Lodi/index.md
+          - Sondrio: FuturoNazionale/Comitati/Nord-ovest/Lombardia/Sondrio/index.md
+        - Liguria: FuturoNazionale/Comitati/Nord-ovest/Liguria/index.md
+          - Genova: FuturoNazionale/Comitati/Nord-ovest/Liguria/Genova/index.md
+          - La Spezia: FuturoNazionale/Comitati/Nord-ovest/Liguria/La Spezia/index.md
+          - Imperia: FuturoNazionale/Comitati/Nord-ovest/Liguria/Imperia/index.md
+          - Savona: FuturoNazionale/Comitati/Nord-ovest/Liguria/Savona/index.md
+        - Valle d'Aosta: FuturoNazionale/Comitati/Nord-ovest/Valle d'Aosta/index.md
+          - Aosta: FuturoNazionale/Comitati/Nord-ovest/Valle d'Aosta/Aosta/index.md
+      - Centro: FuturoNazionale/Comitati/Centro/index.md
+        - Lazio: FuturoNazionale/Comitati/Centro/Lazio/index.md
+          - Roma: FuturoNazionale/Comitati/Centro/Lazio/Roma/index.md
+          - Frosinone: FuturoNazionale/Comitati/Centro/Lazio/Frosinone/index.md
+          - Viterbo: FuturoNazionale/Comitati/Centro/Lazio/Viterbo/index.md
+          - Latina: FuturoNazionale/Comitati/Centro/Lazio/Latina/index.md
+          - Rieti: FuturoNazionale/Comitati/Centro/Lazio/Rieti/index.md
+        - Toscana: FuturoNazionale/Comitati/Centro/Toscana/index.md
+          - Firenze: FuturoNazionale/Comitati/Centro/Toscana/Firenze/index.md
+          - Grosseto: FuturoNazionale/Comitati/Centro/Toscana/Grosseto/index.md
+          - Pisa: FuturoNazionale/Comitati/Centro/Toscana/Pisa/index.md
+          - Lucca: FuturoNazionale/Comitati/Centro/Toscana/Lucca/index.md
+          - Pistoia: FuturoNazionale/Comitati/Centro/Toscana/Pistoia/index.md
+          - Arezzo: FuturoNazionale/Comitati/Centro/Toscana/Arezzo/index.md
+          - Livorno: FuturoNazionale/Comitati/Centro/Toscana/Livorno/index.md
+          - Massa-Carrara: FuturoNazionale/Comitati/Centro/Toscana/Massa-Carrara/index.md
+          - Siena: FuturoNazionale/Comitati/Centro/Toscana/Siena/index.md
+          - Prato: FuturoNazionale/Comitati/Centro/Toscana/Prato/index.md
+        - Marche: FuturoNazionale/Comitati/Centro/Marche/index.md
+          - Macerata: FuturoNazionale/Comitati/Centro/Marche/Macerata/index.md
+          - Ancona: FuturoNazionale/Comitati/Centro/Marche/Ancona/index.md
+          - Pesaro e Urbino: FuturoNazionale/Comitati/Centro/Marche/Pesaro e Urbino/index.md
+          - Ascoli Piceno: FuturoNazionale/Comitati/Centro/Marche/Ascoli Piceno/index.md
+          - Fermo: FuturoNazionale/Comitati/Centro/Marche/Fermo/index.md
+        - Umbria: FuturoNazionale/Comitati/Centro/Umbria/index.md
+          - Perugia: FuturoNazionale/Comitati/Centro/Umbria/Perugia/index.md
+          - Terni: FuturoNazionale/Comitati/Centro/Umbria/Terni/index.md
+      - Sud: FuturoNazionale/Comitati/Sud/index.md
+        - Campania: FuturoNazionale/Comitati/Sud/Campania/index.md
+          - Benevento: FuturoNazionale/Comitati/Sud/Campania/Benevento/index.md
+          - Avellino: FuturoNazionale/Comitati/Sud/Campania/Avellino/index.md
+          - Salerno: FuturoNazionale/Comitati/Sud/Campania/Salerno/index.md
+          - Napoli: FuturoNazionale/Comitati/Sud/Campania/Napoli/index.md
+          - Caserta: FuturoNazionale/Comitati/Sud/Campania/Caserta/index.md
+        - Abruzzo: FuturoNazionale/Comitati/Sud/Abruzzo/index.md
+          - L'Aquila: FuturoNazionale/Comitati/Sud/Abruzzo/L'Aquila/index.md
+          - Teramo: FuturoNazionale/Comitati/Sud/Abruzzo/Teramo/index.md
+          - Chieti: FuturoNazionale/Comitati/Sud/Abruzzo/Chieti/index.md
+          - Pescara: FuturoNazionale/Comitati/Sud/Abruzzo/Pescara/index.md
+        - Molise: FuturoNazionale/Comitati/Sud/Molise/index.md
+          - Isernia: FuturoNazionale/Comitati/Sud/Molise/Isernia/index.md
+          - Campobasso: FuturoNazionale/Comitati/Sud/Molise/Campobasso/index.md
+        - Puglia: FuturoNazionale/Comitati/Sud/Puglia/index.md
+          - Foggia: FuturoNazionale/Comitati/Sud/Puglia/Foggia/index.md
+          - Taranto: FuturoNazionale/Comitati/Sud/Puglia/Taranto/index.md
+          - Brindisi: FuturoNazionale/Comitati/Sud/Puglia/Brindisi/index.md
+          - Lecce: FuturoNazionale/Comitati/Sud/Puglia/Lecce/index.md
+          - Bari: FuturoNazionale/Comitati/Sud/Puglia/Bari/index.md
+          - Barletta-Andria-Trani: FuturoNazionale/Comitati/Sud/Puglia/Barletta-Andria-Trani/index.md
+        - Calabria: FuturoNazionale/Comitati/Sud/Calabria/index.md
+          - Cosenza: FuturoNazionale/Comitati/Sud/Calabria/Cosenza/index.md
+          - Catanzaro: FuturoNazionale/Comitati/Sud/Calabria/Catanzaro/index.md
+          - Vibo Valentia: FuturoNazionale/Comitati/Sud/Calabria/Vibo Valentia/index.md
+          - Reggio Calabria: FuturoNazionale/Comitati/Sud/Calabria/Reggio Calabria/index.md
+          - Crotone: FuturoNazionale/Comitati/Sud/Calabria/Crotone/index.md
+        - Basilicata: FuturoNazionale/Comitati/Sud/Basilicata/index.md
+          - Potenza: FuturoNazionale/Comitati/Sud/Basilicata/Potenza/index.md
+          - Matera: FuturoNazionale/Comitati/Sud/Basilicata/Matera/index.md
+      - Isole: FuturoNazionale/Comitati/Isole/index.md
+        - Sicilia: FuturoNazionale/Comitati/Isole/Sicilia/index.md
+          - Messina: FuturoNazionale/Comitati/Isole/Sicilia/Messina/index.md
+          - Catania: FuturoNazionale/Comitati/Isole/Sicilia/Catania/index.md
+          - Palermo: FuturoNazionale/Comitati/Isole/Sicilia/Palermo/index.md
+          - Trapani: FuturoNazionale/Comitati/Isole/Sicilia/Trapani/index.md
+          - Siracusa: FuturoNazionale/Comitati/Isole/Sicilia/Siracusa/index.md
+          - Caltanissetta: FuturoNazionale/Comitati/Isole/Sicilia/Caltanissetta/index.md
+          - Enna: FuturoNazionale/Comitati/Isole/Sicilia/Enna/index.md
+          - Agrigento: FuturoNazionale/Comitati/Isole/Sicilia/Agrigento/index.md
+          - Ragusa: FuturoNazionale/Comitati/Isole/Sicilia/Ragusa/index.md
+        - Sardegna: FuturoNazionale/Comitati/Isole/Sardegna/index.md
+          - Cagliari: FuturoNazionale/Comitati/Isole/Sardegna/Cagliari/index.md
+          - Sassari: FuturoNazionale/Comitati/Isole/Sardegna/Sassari/index.md
+          - Nuoro: FuturoNazionale/Comitati/Isole/Sardegna/Nuoro/index.md
+          - Oristano: FuturoNazionale/Comitati/Isole/Sardegna/Oristano/index.md
+          - Gallura Nord-Est Sardegna: FuturoNazionale/Comitati/Isole/Sardegna/Gallura Nord-Est Sardegna/index.md
+          - Ogliastra: FuturoNazionale/Comitati/Isole/Sardegna/Ogliastra/index.md
+          - Medio Campidano: FuturoNazionale/Comitati/Isole/Sardegna/Medio Campidano/index.md
+          - Sulcis Iglesiente: FuturoNazionale/Comitati/Isole/Sardegna/Sulcis Iglesiente/index.md
